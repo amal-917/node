@@ -1,0 +1,1 @@
+300% improvement in the time needed to access the database, allowing users to get desired data sets in seconds and not hours. The Node. js microservices architecture made it possible to move legacy databases to the cloud and make them available to users via APIs.
